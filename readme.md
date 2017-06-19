@@ -1,3 +1,5 @@
+Get dummy text onto your clipboard as fast as possible. Just another shortcut I made for myself.
+
 ## Dependencies
 
 * Python 2.7
