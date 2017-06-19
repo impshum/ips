@@ -1,4 +1,8 @@
-## Install dependencies
+## Dependencies
+
+* Python 2.7
+* urllib
+* pyperclip
 
     pip install -r requirements.txt
 
