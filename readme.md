@@ -1,4 +1,6 @@
-Get dummy text onto your clipboard as fast as possible. Just another shortcut I made for myself.
+# Get dummy text onto your clipboard as fast as possible. 
+
+#### Just another shortcut I made for myself.
 
 ## Dependencies
 
