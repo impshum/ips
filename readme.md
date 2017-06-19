@@ -4,7 +4,9 @@ Get dummy text onto your clipboard as fast as possible. Just another shortcut I 
 
 * Python 2.7
 * urllib
-* pyperclip
+* wpyperclip
+
+## Install Dependancies
 
     pip install -r requirements.txt
 
