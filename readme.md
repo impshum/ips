@@ -1,6 +1,6 @@
-# Get dummy text onto your clipboard as fast as possible. 
+## IPS
 
-#### Just another shortcut I made for myself.
+**Get dummy text onto your clipboard as fast as possible.**
 
 ## Dependencies
 
@@ -16,11 +16,11 @@
 
 Get 1 paragraph
 
-    python ipsum.py
+    python ips.py
 
 Get 10 paragraphs
 
-    python ipsum.py 10
+    python ips.py 10
 
 You should have dummy text on your clipboard ready to plaster wherever you need it.
 
@@ -39,7 +39,7 @@ sudo nano ~/.bash_profile
 ```
 Add this to the bottom and edit the file location.
 ```
-alias ips='python /path/to/folder/ipsum.py'
+alias ips='python /path/to/folder/ips.py'
 ```
 And refresh
 ```
@@ -57,7 +57,7 @@ sudo nano ~/.bashrc
 ```
 Add this to the bottom.
 ```
-alias ips='python /path/to/folder/ipsum.py'
+alias ips='python /path/to/folder/ips.py'
 ```
 And refresh
 ```
