@@ -2,6 +2,8 @@
 
 Quickly copy dummy text (ipsum lorem) to your clipboard.
 
+![](ss.jpg)
+
     Dulce amarum, leve asperum, prope longe, stare movere, quadratum rotundum. Ergo infelix una molestia, fellx rursus, cum is ipse anulus in praecordiis piscis inventus est? Quod non faceret, si in voluptate summum bonum poneret. Praeclare enim Plato: Beatum, cui etiam in senectute contigerit, ut sapientiam verasque opiniones assequi possit.
 
 ## Dependencies
