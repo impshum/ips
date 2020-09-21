@@ -10,4 +10,3 @@ args = parser.parse_args()
 url = f'https://loripsum.net/api/plaintext/{args.length}'
 data = get(url).text.strip()
 pyperclip.copy(data)
-pyperclip.paste()
